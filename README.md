@@ -1,5 +1,8 @@
 # vueapp
 
+IMPORTANT:
+Make sure you read and follow the intructions from the "readme" file on the "webapi" project first before setting up and running the "vueapp"
+
 ## Project setup
 ```
 npm install
